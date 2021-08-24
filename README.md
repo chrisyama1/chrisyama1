@@ -25,6 +25,3 @@ Eu tenho 22 anos.
 
 <a href="https://www.postgresql.org" alt="postgres">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-
-<a href="https://www.postgresql.org" alt="postgres">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
