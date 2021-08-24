@@ -22,3 +22,9 @@ Eu tenho 22 anos.
 
 <a href="https://www.java.com/pt-BR/" alt="java">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
+
+<a href="https://www.postgresql.org" alt="postgres">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+
+<a href="https://www.postgresql.org" alt="postgres">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
