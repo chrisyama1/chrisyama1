@@ -3,7 +3,7 @@
 <h3 align="left">Sobre mim:</h3>
 
 
-Eu tenho 24 anos.
+Tenho 25 anos, formado em Análise e Desenvolvimento de Sistemas e em busca de oportunidades dentro do ramo de desenvolvimento web
 
 <h3 align="left">Linguagens:</h3>
 
